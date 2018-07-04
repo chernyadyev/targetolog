@@ -1,0 +1,42 @@
+html, body {	margin: 0px;
+	padding: 0px;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+.d_table {	display: table;
+	width: 950px;
+}
+.d_tr {
+	display: table-row;
+}
+.d_td {	display: table-cell;
+	vertical-align: middle;
+}
+.forma {	width: 980px;
+	border: 1px #C0C0C0 solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+.forma input[type=text] {	width: 280px;
+}
+#progress {	display: none;
+}
+table {	border-collapse: collapse !important;
+}
+table.t_data td {
+	border: 1px #C0C0C0 solid;
+}
+.sub_menu a {	color: #333;
+	font-size: 12px;
+	text-decoration: none;
+	border-bottom: 1px #333 dashed;
+}
+#ca_data_filter {    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.treeview-menu {
+	width: 225px !important;
+}
+.treeview span {	width: 225px !important;
+}
